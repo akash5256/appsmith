@@ -720,3 +720,8 @@ export const WELCOME_FORM_NEWLETTER_HEADER = () => "Stay in touch";
 export const WELCOME_FORM_NEWLETTER_LABEL = () =>
   "Get updates about what we are cooking. We do not spam you.";
 export const WELCOME_FORM_SUBMIT_LABEL = () => "Make your first App";
+export const WELCOME_FORM_NON_SUPER_USER_ROLE_DROPDOWN = () =>
+  "What Role Do You Play?";
+export const WELCOME_FORM_NON_SUPER_USER_ROLE = () => "Role";
+export const WELCOME_FORM_NON_SUPER_USER_USE_CASE = () =>
+  "Tell Us About Your Use Case";
